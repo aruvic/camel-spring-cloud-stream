@@ -22,7 +22,7 @@
     </modules>
 
     <properties>
-        <camel.version>2.18.3</camel.version>
+        <camel.version>2.23.1</camel.version>
     </properties>
 
     <dependencyManagement>
